@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Conception Date Calculator](https://www.calculator.io/conception-date-calculator/ "Conception Date Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_conception_date_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Conception Date Calculator to the sidebar through the `Appearance -> Widgets -> Conception Date Calculator` menu in WordPress.
+* Add the shortcode `[ci_conception_date_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_conception_date_calculator(); ?>` to your template where you would like the Conception Date Calculator to appear.
 
 == Screenshots ==

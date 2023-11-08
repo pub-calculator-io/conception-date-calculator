@@ -12,9 +12,8 @@ This conception calculator calculates your conception date based on the date of 
 3. Activate the [Conception Date Calculator](https://www.calculator.io/conception-date-calculator/ "Conception Date Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_conception_date_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Conception Date Calculator to the sidebar through the `Appearance -> Widgets -> Conception Date Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_conception_date_calculator(); ?>` to your template where you would like the Conception Date Calculator to appear.
+* Add the shortcode `[ci_conception_date_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_conception_date_calculator(); ?>` to your template where you would like the Conception Date Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
