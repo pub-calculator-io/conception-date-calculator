@@ -1,4 +1,4 @@
-# Conception Date Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Conception Date Calculator Widget for WordPress
 
 This conception calculator calculates your conception date based on the date of your last period, your ultrasound date, or your due date.
 
