@@ -1,4 +1,4 @@
-=== Conception Date Calculator by Calculator.iO ===
+=== Conception Date Calculator ===
 Contributors: calculatorio
 Tags: conception date calculator, calculate conception date, pregnancy conception calculator, find conception date, conception estimator, due date and conception calculator, fertility window calculator, ovulation to conception calculator, conception period calculator, pregnancy date calculation
 Requires at least: 5.0
