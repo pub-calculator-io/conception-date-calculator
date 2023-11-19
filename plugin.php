@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Conception Date Calculator by www.calculator.io
+Plugin Name: CI Conception date calculator
 Plugin URI: https://www.calculator.io/conception-date-calculator/
 Description: This conception calculator calculates your conception date based on the date of your last period, your ultrasound date, or your due date.
 Version: 1.0.0
