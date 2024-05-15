@@ -3,7 +3,6 @@
 This conception calculator calculates your conception date based on the date of your last period, your ultrasound date, or your due date.
 
 ![Conception Date Calculator Input Form](/assets/images/screenshot-1.png "Conception Date Calculator Input Form")
-![Conception Date Calculator Calculation Results](/assets/images/screenshot-2.png "Conception Date Calculator Calculation Results")
 
 ## Installation
 

@@ -12,7 +12,7 @@ function calculate() {
 
 	if(basedOn === 0) {
 		if(!dueDate) {
-			return input.error('due_date', 'Please enter a due date', true);
+			return input.error('due_date', 'Enter the due date', true);
 		}
 		else {
 			const date = dueDate;
@@ -23,7 +23,7 @@ function calculate() {
 	}
 	else if(basedOn === 1) {
 		if(!firstDay) {
-			return input.error('first_day', 'Please enter a first day', true);
+			return input.error('first_day', 'Enter the first day', true);
 		}
 		else {
 			const date = firstDay;
@@ -35,10 +35,10 @@ function calculate() {
 	}
 	else if(basedOn === 2) {
 		if(!ultrasoundDate) {
-			input.error('ultrasound_date', 'Please enter a ultrasound date');
+			input.error('ultrasound_date', 'Enter the date of the ultrasound');
 		}
 		if(!pregnancyWeeks) {
-			input.error('pregnancy_weeks', 'Please length of pregnancy at the time');
+			input.error('pregnancy_weeks', 'Enter the pregnancy length at that time');
 		}
 		if(!input.valid()) return;
 		const date = ultrasoundDate;

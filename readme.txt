@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Conception Date
 == Screenshots ==
 
 1. The Conception Date Calculator Input Form.
-2. The Conception Date Calculator Calculation Results.
 
 == Installation ==
 
